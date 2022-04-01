@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://6246e2d58b723a145e8738c0--endearing-fudge-ad757d.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://6246e2d58b723a145e8738c0--endearing-fudge-ad757d.netlify.app)
 - GitHub [@your-username](https://github.com/safeerahmed100)
 - 
